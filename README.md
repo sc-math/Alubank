@@ -13,5 +13,5 @@ Repositório do Projeto realizado no Curso: Flutter: Estilizando e Reproduzindo 
 
 O projeto do curso era criar uma tela estilizada de um aplicativo de banco fictício chamado Alubank.
 
-![Imagem da tela do aplicativo desenvolvida](https://github.com/sc-math/alubank/blob/main/app-test-img/Screenshot_20231005-225914.jpg)
+<img src="https://github.com/sc-math/alubank/blob/main/app-test-img/Screenshot_20231005-225914.jpg" width="25%" height="25%">
  
