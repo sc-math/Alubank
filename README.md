@@ -1,13 +1,13 @@
 # Alubank
 
-Repositório do Projeto realizado no Curso: Flutter: Estilizando e Reproduzindo Layouts da Alura.
+Repositório do Projeto realizado no Curso: `Flutter: Estilizando e Reproduzindo Layouts` da Alura.
 
 ## ✔️ Técnicas e tecnologias
 
 **Assuntos Abordados no Curso**:
 - `Temas`: Como criar temas e facilitar a manutenção do nosso projeto;
 - `Figma`: Como utilizar o Figma ao nosso favor e agilizar o desenvolvimento;
-
+ 
 
 ## 🔨 Projeto: Alubank
 
